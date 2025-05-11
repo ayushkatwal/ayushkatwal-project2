@@ -1,0 +1,2 @@
+5/11 12:32 PM
+Been thinking of the project for a while and I believe I can finish this in a couple of sessions. I will set up the GitHub repository and make my initial commits, then begin coding the project for find_exit/2.
